@@ -1,0 +1,24 @@
+
+-----Positioning .spots when display:relative-----
+
+-> Take into consideration what all can affect the positioning of your elements. Eg. in th AM setting, .cloud should visible but spots should not. But have to to set .spots inside .btn taking into consideration that .cloud won't be visible in th PM setting. Since position:relative does not the take the element out of it's place, .cloud affects the positioning of the .spot in the PM setting, when they were positioned in the AM setting, with clouds also visible.
+
+-> When the parent/ container element's position is changed, all the child elements also move with the parent.
+
+--------------------------------------------------------------------------------------------------------
+
+-> For position:relative, margin-left:auto, margin-right:auto and display:flex properties are applicable.
+
+-> For position:absolute, the above properties are not applicable.
+
+--------------------------------------------------------------------------------------------------------
+
+-----Box Shadow Property-----
+
+box-shadow: -5px -5px 10px rgba(0,0,0,0.4), 5px 5px 10px rgba(0,0,0,0.4);
+--------------------------------------------------------------------------------------------------------
+
+-----Transition Property-----
+
+ transition: all 200ms ease-in 100ms;
+--------------------------------------------------------------------------------------------------------
