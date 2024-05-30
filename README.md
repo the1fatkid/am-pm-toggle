@@ -10,7 +10,7 @@ Welcome to the AM/PM Toggle Button Web App! This project showcases a beautifully
 - **CSS Positioning**: Makes heavy use of the `position` property to properly align and animate elements.
 
 ## Demo
-See the toggle button in action [here]([your-demo-link](https://the1fatkid.github.io/am-pm-toggle/)).
+See the toggle button in action [here](https://the1fatkid.github.io/am-pm-toggle/).
 
 ## Technologies Used
 
