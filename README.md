@@ -13,7 +13,6 @@ Welcome to the AM/PM Toggle Button Web App! This project showcases a beautifully
 See the toggle button in action [here](https://the1fatkid.github.io/am-pm-toggle/).
 
 ## Technologies Used
-
 - HTML
 - CSS
   
@@ -32,6 +31,9 @@ To run this project locally, follow these steps:
 
 3. **Open the `index.html` File**:
     Open the `index.html` file in your preferred web browser to view the toggle button.
+   
+## Inspiration
+This project was inspired by a design I found on Pinterest. You can check out the original design [here](https://pin.it/1TYjWfVaK).
 
 ## Usage
 Click the toggle button to switch between AM and PM themes. Watch as the background transitions smoothly from a daytime skyline to a nighttime cityscape, highlighting the capabilities of CSS animations and positioning.
